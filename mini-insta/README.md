@@ -8,13 +8,13 @@ A React 18 + Vite app that functions as a mini Instagram styled feed with posts,
 I've stored the main posts state in App.jsx and it is passed down to child components. Feed maps through posts, PostCard renders each post, and Commenting or Composer update the state through setPosts.
 
 **Feed View**
-![Feed Screenshot](c:\Users\breha\OneDrive\Pictures\Screenshots 1\Screenshot 2025-10-14 220744.png)
+![Feed Screenshot](./screenshots/feed.png)
 
 **Comment Added**
-![Comment Screenshot](c:\Users\breha\OneDrive\Pictures\Screenshots 1\Screenshot 2025-10-14 220813.png)
+![Comment Screenshot](./screenshots/comment.png)
 
 **Composer**
-![Composer Screenshot](c:\Users\breha\OneDrive\Pictures\Screenshots 1\Screenshot 2025-10-14 221054.png)
+![Composer Screenshot](./screenshots/composer.png)
 
 **Console (No Errors)**
-![Console Screenshot](c:\Users\breha\OneDrive\Pictures\Screenshots 1\Screenshot 2025-10-13 162920.png)
+![Console Screenshot](./screenshots/console.png)
