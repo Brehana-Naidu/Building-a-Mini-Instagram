@@ -14,7 +14,7 @@ I've stored the main posts state in App.jsx and it is passed down to child compo
 ![Comment Screenshot](./screenshots/comment.png)
 
 **Composer**
-![Composer Screenshot](./screenshots/composer.png)
+![Composer Screenshot](./screenshots/post.png)
 
 **Console (No Errors)**
 ![Console Screenshot](./screenshots/console.png)
